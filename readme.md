@@ -51,5 +51,5 @@ To explore and visualize key metrics for Blinkit (formerly Grofers), focusing on
 ## 📬 Contact
 
 Made with ❤️ by [Harsh Singh Pundhir]  
-📧 your.email@example.com  
+📧 hsp030704@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/harshsinghpundhir/) | [GitHub](https://github.com/HarshRajput-991172)
