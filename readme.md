@@ -21,27 +21,14 @@ To explore and visualize key metrics for Blinkit (formerly Grofers), focusing on
 - 🧭 Regional demand analysis (City/Zone)
 - 💸 Revenue breakdown by category and delivery type
 
-## 📁 Dataset Details
-
-- **Source**: Synthetic/mock dataset resembling Blinkit’s operations
-- **Columns**: Order ID, Customer ID, City, Date, Category, Quantity, Price, Delivery Time, etc.
-- **Size**: ~10,000 rows
-
-> _Note: Real customer information and internal company data are anonymized or simulated for academic purposes._
 
  🧰 Tools Used
 
 - Power BI Desktop
-- DAX (Data Analysis Expressions)
 - Power Query (for data cleaning)
 - Excel / CSV files as source
 
- 🖼️ Screenshots
-
-![Orders Overview](screenshots/orders_overview.png)
-![Top Products](screenshots/top_products.png)
-![Delivery Trends](screenshots/delivery_performance.png)
-
+ 
 🚀 How to Use
 
 1. Clone or download this repository.
